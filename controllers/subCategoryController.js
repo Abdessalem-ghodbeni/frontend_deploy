@@ -1,7 +1,7 @@
 // subCategoryController.js
 
-const SubCategory = require("../models/subCategory");
-
+// const SubCategory = require("../models/subCategory");
+const SubCategory = require("../models/subcategory");
 // Service for sub-category-related operations
 
 const subCategoryService = {
